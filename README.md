@@ -1,3 +1,5 @@
+Deployed link : https://netflix-gpt-ktqb.vercel.app/
+
 # Netflix GPT
 
 - Create React App
